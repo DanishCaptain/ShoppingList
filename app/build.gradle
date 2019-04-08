@@ -3,13 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-<<<<<<< HEAD
-        applicationId "org.mendybot.android.shopping"
-        minSdkVersion 23
-=======
         applicationId "com.danishcaptain.mb.shoppinglist"
-        minSdkVersion 24
->>>>>>> 7a383e8a0e6b9342caa1c5fe79e82cb73439628f
+        minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"

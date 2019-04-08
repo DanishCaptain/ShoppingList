@@ -1,6 +1,6 @@
 package com.danishcaptain.mb.shoppinglist.model;
 
-import com.danishcaptain.mb.todokeeper.MainActivity;
+import com.danishcaptain.mb.shoppinglist.MainActivity;
 
 public final class ItemModel {
     private static ItemModel singleton;
